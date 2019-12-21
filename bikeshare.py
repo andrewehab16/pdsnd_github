@@ -242,6 +242,8 @@ continue
 else :
   break
 
+#main func.
+
 def main():
   while True:
   city, month, day = get_filters()
